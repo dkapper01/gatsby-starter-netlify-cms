@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Daniel Kappers website
-image: /img/home-jumbotron.jpg
+image: /img/kiz.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
