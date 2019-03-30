@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Daniel Kappers website
+title: 'WE ARE WAITING FOR THE FUTURE '
 image: /img/kiz.jpeg
-heading: Great coffee with a conscience
+heading: The new term applications for the academy have started!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
