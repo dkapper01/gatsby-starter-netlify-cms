@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Daniel Kappers website
-image: /img/kiz.jpeg
+image: /img/heyecanli-ofis.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
