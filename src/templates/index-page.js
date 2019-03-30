@@ -65,19 +65,24 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    {/* <h1 className="title style-pitch">{mainpitch.title}</h1> */}
+    <div className="pitch">
+    <h3 className="subtitle style-pitch">{mainpitch.description}</h3>
+    </div>
+
     <section className="section section--gradient">
+
       <div className="container">
+
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+                  {/* <div className="tile style-pitch">
+                  </div> */}
                 </div>
                 <div className="columns">
                   <div className="column is-12">
