@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {title}
+          {heading}
         </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
@@ -71,31 +71,30 @@ export const IndexPageTemplate = ({
             backgroundColor: '#f80',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            padding: '1.25em',
           }}
       >
       {announcement}
       </section>
-    <section className="section section--gradient">
-      <div className="container">
+    <section className=""  style={{
+            // backgroundColor: '#f90',
+          }}>
+      {/* <div className=""  style={{
+            backgroundColor: '#f80',
+          }}> */}
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+                {/* <div className="content"> */}
+         
                 </div>
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                      {intro.heading}
                     </h3>
-                    <p>{description}</p>
+                    <p>{intro.description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
@@ -116,12 +115,12 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
-                </div>
+                {/* </div> */}
               </div>
             </div>
           </div>
         </div>
-      </div>
+      {/* </div> */}
     </section>
   </div>
 )

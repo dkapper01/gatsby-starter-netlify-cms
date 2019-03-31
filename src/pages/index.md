@@ -2,9 +2,9 @@
 templateKey: index-page
 image: /img/kiz.jpeg
 title: 'WE ARE WAITING FOR THE FUTURE '
-heading: The new term applications for the academy have started!
 announcement: announcement test
 subheading: Support sustainable farming while enjoying a cup
+heading: The new term applications for the academy have started!
 mainpitch:
   title: Why Kaldi
   description: >
