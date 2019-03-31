@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: 'WE ARE WAITING FOR THE FUTURE '
 image: /img/kiz.jpeg
+title: 'WE ARE WAITING FOR THE FUTURE '
 heading: The new term applications for the academy have started!
+announcement: announcement test
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
   description: >
-    Daniel is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    <h2>Daniel</h2> is the coffee store for everyone who believes that great
+    coffee shouldn't just taste good, it should do good too. We source all of
+    our beans directly from small scale sustainable farmers and make sure part
+    of the profits are reinvested in their communities.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -45,6 +46,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/coding.png
+      text: This is a new png image
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
