@@ -65,14 +65,17 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <section  style={{
-            backgroundColor: '#f80',
+    <section style={{
+            boxShadow:
+              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
-          }}>
-      <h3>{announcement}</h3>
-    </section> 
+          }}
+      >
+      {announcement}
+      </section>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
