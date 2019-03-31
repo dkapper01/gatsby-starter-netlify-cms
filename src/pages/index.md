@@ -45,8 +45,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-    - image: /img/230317.svg
-      text: This is a test image
+    - image: /img/coding.png
+      text: This is a new png image
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
